@@ -5,5 +5,3 @@
 # tchau
 
 # oiii
-
-# asdasd as
